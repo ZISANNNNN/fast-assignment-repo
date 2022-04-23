@@ -50,6 +50,8 @@ h2 {
     margin-left: 5px;
     padding: 5px;
     border-radius: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
 }
 
 #mission {
@@ -65,4 +67,20 @@ h2 {
 #goal {
     background-color: rgb(223, 198, 164);
     padding: 10px 10px;
+}
+
+.top-banner {
+    background-image: url(pic/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    padding: 50px;
+}
+
+.dev-without {
+    width: 50%;
+}
+
+.dev-without img {
+    width: 70%;
 }
