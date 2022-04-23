@@ -1,4 +1,12 @@
-span {
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.orange {
     color: orange;
 }
 
@@ -12,4 +20,19 @@ span {
 
 .half-width img {
     width: 50%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #b5281e;
+    color: white;
+    font-weight: 500px;
+    padding: 10px 20px;
+    border-radius: 5%;
+
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
 }
