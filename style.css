@@ -6,6 +6,9 @@ p {
     font-size: 20px;
 }
 
+
+
+
 .orange {
     color: orange;
 }
@@ -91,4 +94,19 @@ h2 {
 
     background-repeat: no-repeat;
     background-size: 20%;
+}
+
+.top-banner-left-top {
+    background-image: url(pic/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 15%;
+
+    padding-top: 10%;
+}
+
+.right-half-width {
+    width: 50%;
+
+    text-align: center;
 }
