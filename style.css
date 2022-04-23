@@ -84,3 +84,11 @@ h2 {
 .dev-without img {
     width: 70%;
 }
+
+.top-banner-right {
+    background-image: url(pic/shape-1.png);
+    background-position: right bottom;
+
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
