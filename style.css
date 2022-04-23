@@ -110,3 +110,14 @@ h2 {
 
     text-align: center;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px 5px 10px 5px;
+}
+
+.red {
+    color: #b5281e;
+}
