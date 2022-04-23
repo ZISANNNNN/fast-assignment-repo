@@ -40,4 +40,29 @@ p {
 h2 {
     font-size: 50px;
     text-align: center;
+
+}
+
+.mission-vission-goals {
+    box-shadow: 10px 10px 30px white;
+    width: 30%;
+    margin-right: 10px;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#mission {
+    background-color: rgb(188, 186, 186);
+    padding: 10px 10px;
+}
+
+#vission {
+    background-color: rgb(188, 147, 133);
+    padding: 10px 10px;
+}
+
+#goal {
+    background-color: rgb(223, 198, 164);
+    padding: 10px 10px;
 }
