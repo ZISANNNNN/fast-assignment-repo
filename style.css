@@ -1,0 +1,15 @@
+span {
+    color: orange;
+}
+
+.fexi-con {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 50%;
+}
